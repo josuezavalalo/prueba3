@@ -3,9 +3,7 @@
 
 int main()
 {
-  std::string name;
+int c;
   std::cout << "What is your name? ";
-  getline (std::cin, name);
-  std::cout << "Hello, " << name << "!\n";
 }
 
